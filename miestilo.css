@@ -1,0 +1,24 @@
+#body1
+{background-color: rgba(172, 167, 163, 0.829);
+}
+h1{
+    color: #941f1f;
+    text-align: center;
+    font-size: 36px;
+}
+#img1{
+    margin: 10px;
+}
+p{
+    font-size: 20px;
+}
+#table1{
+    font-size: 20px;
+    margin: 10px;
+}
+#body2{
+    background-color: rgba(172, 167, 163, 0.829);
+}
+#body3{
+    background-color: rgba(172, 167, 163, 0.829);
+}
